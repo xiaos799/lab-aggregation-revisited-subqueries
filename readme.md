@@ -2,8 +2,7 @@
 
 # Lab | Advanced SQL and Pivot tables
 
-
-In this lab, you will be using the **movie database (sakila)**. 
+In this lab, you will be using the [Sakila](https://dev.mysql.com/doc/sakila/en/) database of movie rentals. You have been using this database for a couple labs already, but if you need to get the data again, refer to the official [installation link](https://dev.mysql.com/doc/sakila/en/sakila-installation.html).
 
 ### Instructions
 
